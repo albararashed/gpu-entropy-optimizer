@@ -6,8 +6,7 @@ Important: This repository contains limited preview functionality. The complete 
 
 ## Demo Usage
 ```bash
-# GPU Cluster Efficiency Simulator (Theorem A Preview)
-# © YourName - Confidential. License required for commercial use.
+. License required for commercial use.
 
 import numpy as np
 
